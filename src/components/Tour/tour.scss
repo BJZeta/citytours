@@ -27,7 +27,7 @@
   display: block;
   top: 5%;
   right: 5%;
-  color: $mainGreen;
+  color: $mainBlue;
   cursor: pointer;
   transition: $mainTransition;
   opacity: 0;
@@ -41,7 +41,7 @@
   padding: 1rem 0.5rem;
   h3 {
     text-transform: uppercase;
-    color: $mainGreen;
+    color: $mainBlue;
   }
   h4 {
     text-transform: capitalize;
@@ -51,7 +51,7 @@
   h5 {
     text-transform: capitalize;
     span {
-      color: $mainGreen;
+      color: $mainBlue;
       margin: 0.5rem;
       font-size: 1.2rem;
     }

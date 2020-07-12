@@ -1,17 +1,17 @@
 export const tourData = [
   {
     id: 1,
-    city: "new york",
-    img: "./img/newyork.jpeg",
-    name: "new york bridge tour",
+    city: "gotham city",
+    img: "./img/gotham.jpg",
+    name: "wayne enterprise gotham tour",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi",
   },
   {
     id: 2,
-    city: "paris",
-    img: "./img/paris.jpeg",
-    name: "paris lights tour",
+    city: "metropolis",
+    img: "./img/metropolis.jpg",
+    name: "metropolis skyline tour",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi",
   },

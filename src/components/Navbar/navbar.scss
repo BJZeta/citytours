@@ -5,6 +5,10 @@
   display: grid;
   grid-template-columns: auto 1fr;
   align-items: center;
+  h1 {
+    color: $mainBlue;
+    font-family: "Grenze Gotisch", "cursive";
+  }
 }
 
 .nav-links {
@@ -21,10 +25,10 @@
   font-size: 1.2rem;
   transition: all 0.3s linear;
   &:hover {
-    color: $mainGreen;
+    color: $mainBlue;
   }
 }
 
 .active {
-  color: $mainGreen;
+  color: $mainBlue;
 }
